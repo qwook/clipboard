@@ -1,0 +1,5 @@
+
+// binaries
+*.dll
+*.so
+*.o
